@@ -1,0 +1,145 @@
+{
+  "project_info": {
+    "project_number": "410522356318",
+    "project_id": "e-food-9e6e3",
+    "storage_bucket": "e-food-9e6e3.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:410522356318:android:ed53435b87e4bb553dc2cf",
+        "android_client_info": {
+          "package_name": "com.sixamtech.efood"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "410522356318-2pr099mub2da61e8i24s7bkmapm5k1l6.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.sixamtech.efood",
+            "certificate_hash": "5e29a0beda4efebf4c221412f29a011849c8d999"
+          }
+        },
+        {
+          "client_id": "410522356318-gr5gnblg9pnt4ler1a0qn2167iv99iqo.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.sixamtech.efood",
+            "certificate_hash": "cd0ac511cd390e4642666eb8571050d5fe8aa319"
+          }
+        },
+        {
+          "client_id": "410522356318-lbv1i8nppacegh64hk1huba3epfhfmo4.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.sixamtech.efood",
+            "certificate_hash": "e12177a221ae920f62a44ecf5a519b29e6b09fc3"
+          }
+        },
+        {
+          "client_id": "410522356318-0m721qqiuria4ssofsjic7kt7k6ep154.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB7Uag9C-fHlCncDgLYtnN08TzIpKzKaj8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "410522356318-0m721qqiuria4ssofsjic7kt7k6ep154.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "410522356318-3u3bo0nncpousqfrbnrhcs2dbp9k9k89.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.sixamtech.eFood",
+                "app_store_id": "1573754835"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:410522356318:android:d4a531ed69816dec3dc2cf",
+        "android_client_info": {
+          "package_name": "com.sixamtech.efood_delivery"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "410522356318-0m721qqiuria4ssofsjic7kt7k6ep154.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB7Uag9C-fHlCncDgLYtnN08TzIpKzKaj8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "410522356318-0m721qqiuria4ssofsjic7kt7k6ep154.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "410522356318-3u3bo0nncpousqfrbnrhcs2dbp9k9k89.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.sixamtech.eFood",
+                "app_store_id": "1573754835"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:410522356318:android:5e93becffbf30edd3dc2cf",
+        "android_client_info": {
+          "package_name": "com.sixamtech.efood_kitchen"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "410522356318-0m721qqiuria4ssofsjic7kt7k6ep154.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB7Uag9C-fHlCncDgLYtnN08TzIpKzKaj8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "410522356318-0m721qqiuria4ssofsjic7kt7k6ep154.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "410522356318-3u3bo0nncpousqfrbnrhcs2dbp9k9k89.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.sixamtech.eFood",
+                "app_store_id": "1573754835"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
